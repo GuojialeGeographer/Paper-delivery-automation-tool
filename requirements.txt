@@ -1,0 +1,5 @@
+streamlit
+pandas
+openai
+sqlite3
+requests
